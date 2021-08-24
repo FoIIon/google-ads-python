@@ -5,7 +5,7 @@
 # configurations. To obtain a developer token see:                            #
 # https://developers.google.com/google-ads/api/docs/first-call/dev-token      #
 ###############################################################################
-developer_token: INSERT_DEVELOPER_TOKEN_HERE
+developer_token: DV7cPVeC0aDrtiKe9U2xKQ
 
 # OAuth2 configuration
 ###############################################################################
@@ -13,9 +13,9 @@ developer_token: INSERT_DEVELOPER_TOKEN_HERE
 # recommended OAuth2 flow. For more information on authenticating with OAuth2 #
 # see: https://developers.google.com/google-ads/api/docs/oauth/overview       #
 ###############################################################################
-client_id: INSERT_OAUTH2_CLIENT_ID_HERE
-client_secret: INSERT_OAUTH2_CLIENT_SECRET_HERE
-refresh_token: INSERT_REFRESH_TOKEN_HERE
+client_id: 364534642169-0h82sbsnl48ks125o3lsb66trocbln08.apps.googleusercontent.com
+client_secret: n0_kEpCa_m72Ed02iPc7Vg42
+refresh_token: 1//09vCf2vEnmFtZCgYIARAAGAkSNwF-L9Ir2UMK7e8RAJ9E999WJ4XJ5qDAgjhXQKDm1Mp3LAzEUSWESIz1eBz1uDQEoN-E9Y1Ny-s
 
 # Service Account configuration
 ###############################################################################
